@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@oh-my-pi/pi-coding-agent": "18.20.0",
+    "@oh-my-pi/pi-natives": "18.20.0",
+    "@oh-my-pi/pi-natives-darwin-x64": "18.20.0"
+  },
+  "trustedDependencies": [
+    "onnxruntime-node",
+    "protobufjs"
+  ]
+}

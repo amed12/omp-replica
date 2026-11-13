@@ -1,0 +1,14 @@
+symbolPreset: unicode
+setupVersion: 3
+modelRoles:
+  default: openai-codex/gpt-6.1-terra:low
+colorBlindMode: false
+theme:
+  dark: dark-catppuccin
+dev:
+  autoqaConsent: denied
+codexResets:
+  autoRedeem5h: "no"
+  autoRedeemWeekly: "no"
+update:
+  auto: true
